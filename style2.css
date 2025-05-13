@@ -10,6 +10,8 @@ header{
     padding: 2rem;
     font-weight: 700;
     color: white;
+    font-family: 'Karantina', sans-serif;
+    font-weight: 700;
     font-size: 1.5rem;
 }
 header input{
@@ -65,7 +67,6 @@ main{
     font-family: 'Karantina', sans-serif; /* ou 'Red Hat Display' se preferir */
     font-weight: 700;
     color: white;
-    font-size: 3rem;
     font-size: 10rem;
     padding: 2rem;
 }
@@ -94,4 +95,8 @@ main{
     display: flex;
     width: 90%;
     flex-direction: column;
+    font-family: 'Karantina', sans-serif; 
+    font-weight: 300;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
 }
